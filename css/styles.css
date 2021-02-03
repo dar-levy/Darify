@@ -100,6 +100,7 @@ a {
 }
 
 /* Badges */
+
 .badge {
   border-radius: 20px;
   font-size: 2rem;
@@ -374,4 +375,22 @@ card__body {
   .plan__description {
     font-size: 1.7rem;
   }
+}
+
+/* Media Objects */
+
+.media {
+  display: flex;
+}
+
+.media__title {
+  margin: 0;
+}
+
+.media__body {
+  margin: 0 2rem 0 2rem;
+}
+
+.media__image {
+  margin-top: 1rem;
 }
